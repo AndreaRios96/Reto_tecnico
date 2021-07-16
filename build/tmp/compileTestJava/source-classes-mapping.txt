@@ -1,0 +1,4 @@
+com/choucair/reto/RetoChoucairTesting/runners/RealizarPruebasSeccionEmpleos.java
+ com.choucair.reto.RetoChoucairTesting.runners.RealizarPruebasSeccionEmpleos
+com/choucair/reto/RetoChoucairTesting/stepdefinitions/PruebasSeccionEmpleosStepDefinition.java
+ com.choucair.reto.RetoChoucairTesting.stepdefinitions.PruebasSeccionEmpleosStepDefinition
